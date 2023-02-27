@@ -16,3 +16,6 @@ json.dump() fonksiyonu, sözlük objesinin içeriğini f adlı dosyaya JSON form
 yazılan JSON verilerinin okunabilirliğini artırmak için kullanılır ve dosyanın içeriğinin girintili bir şekilde yazılmasını sağlar.
 Bu sayede, JSON verilerini daha kolay okunabilir hale getirmiş oldum.
 with bloğu, dosyanın işlemi tamamlandığında dosyayı otomatik olarak kapatır ve bellek sızıntılarını önler.
+
+
+![2023-02-27_10-19-46](https://user-images.githubusercontent.com/113882167/221504805-b1f1d82c-53c0-458b-8809-140a8d61166e.png)
